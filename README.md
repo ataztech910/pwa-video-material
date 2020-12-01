@@ -27,6 +27,7 @@
 ## Ссылки на сервисы, которые будут использоваться в процессе обучения
 1. https://github.com/
 2. https://stackblitz.com/
+3. https://firebase.com/
 
 ## Содержание интенсива
 1. Progressive Web App и другие страшные слова :pencil:
