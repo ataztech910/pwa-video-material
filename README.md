@@ -31,9 +31,9 @@
 
 ## Содержание интенсива
 1. Progressive Web App и другие страшные слова :pencil:
-2. GitHub. Регистрация и создание репозитория. Возможности сервиса :tomato:
+2. GitHub. Регистрация и создание репозитория. Возможности сервиса :pencil:
 3. Сервис Stackbliz для обучения и совместной работы. Настройка редактора :pencil:
-4. Ready to be progressive. Готовим проект к новому поколению :tomato:
+4. Ready to be progressive. Готовим проект к новому поколению :pencil:
 ***
 5. Javascript. OldSchool vs NewSchool :tomato:
 6. HTML. Тэги и как создать элемент с помощью JS :tomato:
