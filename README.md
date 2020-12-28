@@ -35,7 +35,7 @@
 3. Сервис Stackbliz для обучения и совместной работы. Настройка редактора :pencil:
 4. Ready to be progressive. Готовим проект к новому поколению :pencil:
 ***
-5. Javascript. OldSchool vs NewSchool :tomato:
+5. Javascript. OldSchool vs NewSchool :pencil:
 6. HTML. Тэги и как создать элемент с помощью JS (app-core.js) :tomato:
 7. Типография и стили в веб. Как добавлять стили к элементам через JS :tomato:
 8. CSS. OldSchool vs NewSchool. Переменные без препроцессоров  :tomato:
