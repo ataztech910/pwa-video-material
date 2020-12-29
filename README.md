@@ -36,8 +36,8 @@
 4. Ready to be progressive. Готовим проект к новому поколению :pencil:
 ***
 5. Javascript. OldSchool vs NewSchool :pencil:
-6. HTML. Тэги и как создать элемент с помощью JS (app-core.js) :tomato:
-7. Типография и стили в веб. Как добавлять стили к элементам через JS :tomato:
+6. HTML. Тэги и как создать элемент с помощью JS (app-core.js) :pencil:
+7. Типография и стили в веб. Как добавлять стили к элементам через JS :pencil:
 8. CSS. OldSchool vs NewSchool. Переменные без препроцессоров  :tomato:
 ***
 9. Создаем первую структуру проекта. DRY и KISS :tomato:
