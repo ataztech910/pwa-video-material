@@ -38,7 +38,7 @@
 5. Javascript. OldSchool vs NewSchool :pencil:
 6. HTML. Тэги и как создать элемент с помощью JS (app-core.js) :pencil:
 7. Типография и стили в веб. Как добавлять стили к элементам через JS :pencil:
-8. CSS. OldSchool vs NewSchool. Переменные без препроцессоров  :tomato:
+8. CSS. OldSchool vs NewSchool. Переменные без препроцессоров  :pencil:
 ***
 9. Создаем первую структуру проекта. DRY и KISS :tomato:
 10. JSON. Данные JS :tomato:
