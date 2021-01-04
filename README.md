@@ -41,13 +41,8 @@
 8. CSS. OldSchool vs NewSchool. Переменные без препроцессоров  :pencil:
 ***
 9. Создаем первую структуру проекта. DRY и KISS :pencil:
-10. JSON. Данные JS :tomato:
-11. Browser Storage. Как хранить данные в браузере :tomato:
-12. JS код на странице и консоль разработчика :tomato: (app-state-utils.js)
-***
+10. JSON. Browser Storage. Как хранить данные в браузере :tomato:
 13. Основная логика приложения (app.js) :tomato:
-14. Совмещаем все файлы в одном проекте :tomato:
-***
 FIN. Сервис Firebase для публикации ваших работ и не только  :tomato:
 
 https://depresometr.firebaseapp.com/
