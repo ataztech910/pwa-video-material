@@ -41,9 +41,9 @@
 8. CSS. OldSchool vs NewSchool. Переменные без препроцессоров  :pencil:
 ***
 9. Создаем первую структуру проекта. DRY и KISS :pencil:
-10. Browser Storage. Как хранить данные в браузере :tomato:
-13. Основная логика приложения (app.js) :tomato:
-14. FIN. Сервис Firebase для публикации ваших работ и не только  :tomato:
+10. Browser Storage. Как хранить данные в браузере :pencil:
+13. Основная логика приложения (app.js) :pencil:
+14. FIN. Сервис Firebase для публикации ваших работ и не только :pencil:
 
 https://depresometr.firebaseapp.com/
 
