@@ -43,7 +43,7 @@
 9. Создаем первую структуру проекта. DRY и KISS :pencil:
 10. Browser Storage. Как хранить данные в браузере :tomato:
 13. Основная логика приложения (app.js) :tomato:
-FIN. Сервис Firebase для публикации ваших работ и не только  :tomato:
+14. FIN. Сервис Firebase для публикации ваших работ и не только  :tomato:
 
 https://depresometr.firebaseapp.com/
 
